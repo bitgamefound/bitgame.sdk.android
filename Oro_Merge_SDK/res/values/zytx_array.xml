@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-<integer-array name="zytx_twinkle_images">
-  <item>@drawable/zytx_twinkle_1</item>
-  <item>@drawable/zytx_twinkle_2</item>
-  <item>@drawable/zytx_twinkle_3</item>
-</integer-array>
-</resources>
